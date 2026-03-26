@@ -1,5 +1,6 @@
 import { HeroSection } from './components/HeroSection';
 import { StorytellingSection } from './components/StorytellingSection';
+import { GallerySection } from './components/GallerySection';
 import { LocationSection } from './components/LocationSection';
 import { MusicSection } from './components/MusicSection';
 import { ContactSection } from './components/ContactSection';
@@ -32,6 +33,7 @@ export default function App() {
       
       <HeroSection />
       <StorytellingSection />
+      <GallerySection />
       <LocationSection />
       <MusicSection />
       <ContactSection />

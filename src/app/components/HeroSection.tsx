@@ -52,7 +52,7 @@ export function HeroSection() {
           className="text-[#d4af37] text-xl md:text-2xl mb-12 font-light tracking-wide"
           style={{ fontFamily: 'Cinzel, serif' }}
         >
-          Bar oculto bajo el velo de la noche
+          Oculto bajo el velo de la noche
         </motion.p>
 
         {/* Botón Entrar */}
